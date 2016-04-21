@@ -13,6 +13,6 @@ connection and exits.
 - After executing, <input> and <output> looks the same. 
 - SFTP is built on top of TCP and can trasfer text and binary files. 
 
-This project is coded in C and uses socket libraries.
+This project is coded in C language and uses socket libraries.
 
 
